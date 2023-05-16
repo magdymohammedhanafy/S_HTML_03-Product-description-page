@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 50%;
+}
+.mainheader{
+    color: blue;
+    padding-left: 10px;
+}
+
+img{
+    display: block;
+    border: 2px;
+    border-color: blue;
+    border-style: solid;
+    width: 350px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;   
+}
+.items
+{
+    margin-left: 30px;
+    padding: 10px;
+}
+.itemHeader{
+   padding-left: 10px;
+
+}
+
+
+
+
